@@ -1,10 +1,10 @@
-package com.scp.spring;
+package com.spring.hello_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class HelloSpringApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.scp.spring;
+package com.spring.hello_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class HelloSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(HelloSpringApplication.class, args);
 	}
 
 }
